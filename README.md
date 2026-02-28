@@ -1,1 +1,1 @@
-# service_management
+Service Management System is a Django-based web application that enables users to book services online with secure authentication, time-slot selection, and payment tracking. It includes an admin dashboard to manage users, services, bookings, and status updates efficiently.# service_management
